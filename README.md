@@ -32,4 +32,8 @@ Contribuições são bem-vindas! Se você tiver ideias para melhorias ou encontr
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Autor
-Andreas Oliveira
+Andreas Santos de Oliveira
+
+www.linkedin.com/in/andreas-oliveira-520a8a1ba
+
+andre1395@live.com
